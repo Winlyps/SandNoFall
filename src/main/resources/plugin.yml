@@ -1,0 +1,5 @@
+name: SandNoFall
+version: '1.0.0'
+main: winlyps.sandNoFall.SandNoFall
+api-version: '1.20'
+authors: [ Winlyps ]
